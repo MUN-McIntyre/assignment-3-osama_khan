@@ -1,0 +1,13 @@
+Intensity Threshold to create a mask =>  3 	      3
+
+Smooth the mask = > 3	                            3
+
+foreground and background=> 5	                    2 used built in functions
+
+Generate a polygon =>4	                          2 used built in functions
+
+Readme =>5	                                      5
+
+Total                                            15/20
+
+Cool image
